@@ -5,3 +5,4 @@ meu nome é julia
 - utilizo esse espaço para minha organização e compartilhamento do meu projetos desenvolvidos 
 
 
+![image](https://github.com/user-attachments/assets/ee15b07a-a559-4b37-b95f-28ff4bd8929e)
